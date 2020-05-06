@@ -26,7 +26,7 @@ git clone https://github.com/akira-trinity/akiraJobFinder.git
 Same, download the module.
 
 ```
-python3 -m pip install requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 # How to use it?
