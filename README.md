@@ -51,7 +51,7 @@ python3 akiraJobFinder.py
 Go to the folder of akiraJobFinder:
 
 ```
-cd akiraJobFinder/
+cd [Path to akiraJobFinder]
 ```
 
 And run the script!
@@ -68,7 +68,10 @@ python3 akiraJobFinder.py
 
 
 
+#Error
 
+
+If you have an error when you run the script or the installation command, try to put python and not python3!
 
 
 
