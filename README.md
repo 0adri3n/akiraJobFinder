@@ -68,7 +68,7 @@ python3 akiraJobFinder.py
 
 
 
-#Error
+# Error
 
 
 If you have an error when you run the script or the installation command, try to put python and not python3!
